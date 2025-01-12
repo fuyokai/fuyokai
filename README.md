@@ -1,5 +1,5 @@
 ## Hi! 🌠
-my name is **fuyokai**. I mainly do sys admin stuff but occasionally do a bit of code depending on how I'm feeling! 💻
+My name is **fuyokai**. I mainly do sys admin stuff but occasionally do a bit of code depending on how I'm feeling! 💻
 
 Most projects uploaded here will probably be trash or unfinished. I'm lazy.
 
